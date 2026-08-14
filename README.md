@@ -43,7 +43,7 @@ settings page for language and theme.
 
    | URL | Type |
    |---|---|
-   | `/hacsfiles/ha-recuperator-card/recuperator-card.js` | JavaScript module |
+   | `/hacsfiles/recuperator-custom-card/recuperator-custom-card.js` | JavaScript module |
 
 7. Refresh the browser and add the card through **Edit Dashboard → Add
    card → Recuperator Card** (or **Recuperator Settings Card**).
